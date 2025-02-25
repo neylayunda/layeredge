@@ -247,3 +247,6 @@
 [15:29:44 | 25-02-2025] Last Claim Point: 24/02/2025 08:29:18
 [15:29:46 | 25-02-2025] ✅ Points claimed for 0x2AFD2f1947b657a7993c16bDa83c878a918E672F
 [15:29:48 | 25-02-2025] 🚨 Failed to start node for 0x2AFD2f1947b657a7993c16bDa83c878a918E672F: [object Object]
+[19:44:50 | 25-02-2025] Wallet Address: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F
+[19:44:50 | 25-02-2025] Node Points: 247739
+[19:44:50 | 25-02-2025] Last Claim Point: 25/02/2025 08:29:46
